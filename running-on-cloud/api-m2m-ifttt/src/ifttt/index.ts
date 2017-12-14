@@ -7,15 +7,15 @@ export const hook = functions.https.onRequest(async (req, res) => {
 
   const authTokenKey = `h6tc4C#D-@4pDG$nMX-aF4RR*V#ysPQa`;
 
-  if(!req.headers.hasOwnProperty("x-auth-token-key")) {
-    res.status(400).send("missing x-auth-token-key");
-    return;
-  }
+  // if(!req.headers.hasOwnProperty("x-auth-token-key")) {
+  //   res.status(400).send("missing x-auth-token-key");
+  //   return;
+  // }
 
-  if(req.headers["x-auth-token-key"] != authTokenKey) {
-    res.status(401).send(JSON.stringify(req.headers));
-    return;
-  }
+  // if(req.headers["x-auth-token-key"] != authTokenKey) {
+  //   res.status(401).send(JSON.stringify(req.headers));
+  //   return;
+  // }
   
   // Add more model validations: bad request 400.
   

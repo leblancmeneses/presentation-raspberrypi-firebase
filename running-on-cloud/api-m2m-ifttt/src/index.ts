@@ -1,8 +1,8 @@
 import * as functions from 'firebase-functions';
 import * as admin from 'firebase-admin';
 
-import * as petition_robocaller from './ifttt';
+import * as ifttt_sample from './ifttt';
 
 admin.initializeApp(functions.config().firebase);
 
-export const twilioPetitionsRobocaller = petition_robocaller.hook;
+export const iftttSample = ifttt_sample.hook;
