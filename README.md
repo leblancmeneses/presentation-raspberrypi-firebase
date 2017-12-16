@@ -1,7 +1,7 @@
 # Raspberry Pi, Firebase, firebase-queues, Angular presentation
 Concepts behind my garage door opener
 
-<a href="https://www.robusthaven.com/presentations/IoT-with-Raspberry-Pi-Firebase-Angular"
+<a href="https://www.robusthaven.com/presentations/IoT-with-Raspberry-Pi-Firebase-Angular#/1"
 title="presentation and demo">
   <img src="https://raw.github.com/leblancmeneses/presentation-raspberrypi-firebase/master/demo.png" alt="demo" />
 </a>
