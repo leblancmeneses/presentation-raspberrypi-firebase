@@ -1,5 +1,6 @@
 Add the following to hosting section of firebase.json after running
-firebase init
+
+```firebase init```
 
 ```
     "rewrites": [
