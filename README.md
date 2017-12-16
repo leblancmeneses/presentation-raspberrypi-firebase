@@ -1,10 +1,10 @@
-# Raspberry Pi, Firebase, firebase-queues presentation
+# Raspberry Pi, Firebase, firebase-queues, Angular presentation
 Concepts behind my garage door opener
 
-![demo](https://raw.github.com/leblancmeneses/presentation-raspberrypi-firebase/master/demo.jpg)
-![ui](https://raw.github.com/leblancmeneses/presentation-raspberrypi-firebase/master/running-on-cloud/web-angular-debounce/ui.png)
-![hardware](https://raw.github.com/leblancmeneses/presentation-raspberrypi-firebase/master/firebase-queues-running-on-pi/hardware.jpg)
-
+<a href="https://www.robusthaven.com/presentations/IoT-with-Raspberry-Pi-Firebase-Angular"
+title="presentation and demo">
+  <img src="https://raw.github.com/leblancmeneses/presentation-raspberrypi-firebase/master/demo.png" alt="demo" />
+</a>
 
 TODO(lmeneses): Eventually integrate a webcam to identify open or close.
 
